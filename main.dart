@@ -1,30 +1,3 @@
-// import 'package:flutter/material.dart';
-// import 'package:flutter_application_1/screens/quiz_screen.dart';
-// import 'package:flutter_application_1/screens/welcome_screen.dart';
-
-// void main() {
-//   runApp(const MyApp());
-// }
-
-// class MyApp extends StatelessWidget {
-//   const MyApp({super.key});
-//   @override
-//   Widget build(BuildContext context) {
-//     return MaterialApp(
-//       debugShowCheckedModeBanner: false,
-//       title: 'Quiz App',
-//       theme: ThemeData.dark().copyWith(
-//         scaffoldBackgroundColor: const Color(0xFF1D1E33),
-//         primaryColor: Colors.white,
-//       ),
-//       home: const WelcomeScreen(),
-//     );
-//   }
-// }
-
-
-
-
 import 'package:flutter/material.dart';
 
 void main() => runApp(QuizApp());
